@@ -1,0 +1,1 @@
+export const newAction = (state) => ({ type: 'INPUT_INFOS', state });
